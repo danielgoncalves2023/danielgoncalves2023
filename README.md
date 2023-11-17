@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 💫 Sobre Mim: / About Me:
 Olá!<br><br>Atualmente estou procurando uma oportunidade no mercado de Front End como Desenvolvedor Júnior.<br><br>Estou desenvolvendo meus conhecimento em React e Java, junto às suas bibliotecas e frameworks.<br><br>Sou estudante de Análise e Desenvolvimento de Sistemas, e um aspirante à FullStack no longo prazo.<br><br>Hello!<br><br>I am currently looking for an opportunity in the Front End market as a Junior Developer.<br><br>I am developing my knowledge in React and Java, along with their libraries and frameworks.<br><br>I am a Systems Analysis and Development student, and an aspiring FullStack in the long term.
 
 
